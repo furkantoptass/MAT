@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinav", "Sinav\Sinav.csproj", "{ABAB6D7B-A01E-4124-AA23-B2311239EB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D1DED864-FAB1-4E15-A46F-8FD8332644DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAB6D7B-A01E-4124-AA23-B2311239EB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAB6D7B-A01E-4124-AA23-B2311239EB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAB6D7B-A01E-4124-AA23-B2311239EB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAB6D7B-A01E-4124-AA23-B2311239EB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DED864-FAB1-4E15-A46F-8FD8332644DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DED864-FAB1-4E15-A46F-8FD8332644DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DED864-FAB1-4E15-A46F-8FD8332644DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DED864-FAB1-4E15-A46F-8FD8332644DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E4AA15-DC7C-4217-BF75-1EF50F07AF00}
+	EndGlobalSection
+EndGlobal
